@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-	cout<<"two";
+	cout<<"two by brach2";
 	return 0;
 }
